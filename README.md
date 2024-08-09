@@ -1,5 +1,5 @@
 # differential_evolution
-Lib that implements the differential_evolution function similar to Scipy
+Library in c/c++ that implements the differential_evolution function similar to Scipy
 
 Compile the sorce code using make
 ```console

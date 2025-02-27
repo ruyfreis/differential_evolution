@@ -7,9 +7,7 @@ authors:
   - family-names: Fatigate
     given-names: Gustavo
     orcid: https://orcid.org/0000-0001-5215-3744
-identifiers:
-  - type: url
-    value: https://github.com/ruyfreis/differential_evolution.git
+url: "https://github.com/ruyfreis/differential_evolution.git"
 title: "C Differential Evolution Library"
 version: 1.0
 date-released: 2024-08-09

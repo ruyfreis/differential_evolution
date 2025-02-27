@@ -8,7 +8,7 @@ authors:
     given-names: Gustavo
     orcid: https://orcid.org/0000-0001-5215-3744
 identifiers:
-  - type: GitHub Repo
+  - type: url
     value: https://github.com/ruyfreis/differential_evolution.git
 title: "C Differential Evolution Library"
 version: 1.0
